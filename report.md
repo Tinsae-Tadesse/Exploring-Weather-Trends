@@ -19,5 +19,6 @@ Objective of this project is to compare local temperature data (for Asmara city 
 
 # Result and Discussion
 The local and global temperature trend is depicted in the following figure.
-![Figure 1: Five year moving average of local and global temperature.](https://github.com/Tinsae-Tadesse/Exploring-Weather-Trends/images/Explore_Weather_Trends.jpg)
-*	As Figure 1 shows, _Asmara’s average temperature is hotter than the global average_. As shown in Figure 2, the difference between Asmara’s average temperature and the global average temperature is _consistently around 15$^{o}$C_. The average temperature difference was 15.37oC.
+![](images/Explore_Weather_Trends.jpg)    
+**Figure 1**: Five year moving average of local and global temperature.    
+*	As Figure 1 shows, _Asmara’s average temperature is hotter than the global average_. As shown in Figure 2, the difference between Asmara’s average temperature and the global average temperature is _consistently around 15${^o}$C_. The average temperature difference was 15.37oC.
