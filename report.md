@@ -1,3 +1,12 @@
+# Exploring Global and Local Temperature Trends
+
+## Introduction
+This project is aimed at analyzing local and global temperature data and comparing the trends in both temperatures. The global average temperature data contains 266 rows of records starting from 1750. The data contains 135 and 329 distinct countries and cities respectively. The questions raised for analyzing the data are:
+
+* Is the local average temperature hotter or cooler to the global average? Has the difference been consistent over time?
+* How do the changes in local temperatures over time when compared to the changes in the global average?
+* What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
+
 ## Objective
 Objective of this project is to compare local temperature data (for Asmara city in Eritrea) with the global temperature trend.
 
