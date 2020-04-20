@@ -19,10 +19,21 @@ Objective of this project is to compare local temperature data (for Asmara city 
 
 # Result and Discussion
 The local and global temperature trend is depicted in the following figure.
+
+
 ![](images/Explore_Weather_Trends.jpg)    
-**Figure 1**: Five year moving average of local and global temperature.    
+**Figure 1**: Five year moving average of local and global temperature. 
+
+
 *	As Figure 1 shows, _Asmara’s average temperature is hotter than the global average_. As shown in Figure 2, the difference between Asmara’s average temperature and the global average temperature is _consistently around 15<sup>o</sup>C_. The average temperature difference was 15.37<sup>o</sup>C.    
+
+
 ![](images/Explore_Weather_Trends_2.jpg)    
 **Figure 2**: Five year moving average of temperature difference between local and global.
-*	_Both the global and local average temperatures are slowly rising_. However; the range in average temperature of Asmara is higher than the range of global average, as R<sub>Global</sub>=2.06<sup>o</sup>C and R<sub>Asmara</sub>=2.9<sup>o</sup>C. Hence; _the maximum local temperature change is higher than the global_ by 0.84<sup>o</sup>C.
-*	The range of local and global temperature during 1976-2015(past 39 years) is higher than the range in 1875-1975(past 100 years). R<sub>(1875-1975)</sub><sup>Global</sup>=1.18<sup>o</sup>C and R<sub>(1875-1975)</sub><sup>Asmara</sup>=1.57<sup>o</sup>C, however; R<sub>(1976-2015)</sub><sup>Global</sup>=1.48<sup>o</sup>C and R<sub>(1976-2015)</sub><sup>Asmara</sup>=2.21<sup>o</sup>C. Hence; the _maximum temperature change in the past 39 years was higher than the past 100 years_.
+
+
+*	_Both the global and local average temperatures are slowly rising_. However; the average temperature change for Asmara is higher than the change in the global average, as σ<sub>Global</sub>=0.46<sup>o</sup>C and σ<sub>Asmara</sub>=0.51<sup>o</sup>C. Hence; _the average change in local temperature is higher than the global by 0.05<sup>o</sup>C_.
+
+*	The average local and global temperature changes during 1976-2015(past 39 years) were higher than the changes in 1875-1975(past 100 years). σ<sub>Global(1875-1975)</sub>=0.28<sup>o</sup>C and σ<sub>Asmara(1875-1975)</sub>=0.36<sup>o</sup>C, however; σ<sub>Global(1976-2015)</sub>=0.36<sup>o</sup>C and σ<sub>Asmara(1976-2015)</sub>=0.49<sup>o</sup>C. Hence; _the temperature change in the past 39 years was higher than the past 100 years_.    
+
+The relationship between local and global average temperature is depicted in the following figure.
